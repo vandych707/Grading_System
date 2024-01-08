@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main(){
    int num;
    printf("Enter your Total Percentage :");
@@ -35,4 +35,4 @@ int main(){
                 printf("You failed in this exam");
             }
     return 0;
-} */
+} 
